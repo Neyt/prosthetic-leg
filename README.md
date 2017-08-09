@@ -12,7 +12,7 @@ This project looks to create better Prosthetic legs at a fraction of the cost. (
 
 Video Interview with user that needs it
 [![Interview with user that needs it](https://i.ytimg.com/vi/e3BEWLO6Q98/2.jpg?time=1502308924221)]
-(https://www.youtube.com/edit?o=U&video_id=e3BEWLO6Q98)
+(https://youtu.be/e3BEWLO6Q98)
 
 
 Most files are too big for Github. so you can find them:
