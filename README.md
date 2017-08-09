@@ -11,8 +11,13 @@ Video Interview with user that needs it
 [![Interview with user that needs it](https://i.ytimg.com/vi/e3BEWLO6Q98/2.jpg?time=1502308924221)]
 (https://www.youtube.com/watch?v=e3BEWLO6Q98&feature=youtu.be)
 
+Most files are too big for Github. so you can find them:
+* https://mega.nz/#F!OVclDbKL!77xSua6xuCMB2h9-fW8Z-w
+or 
+* https://drive.google.com/open?id=0B_Mum6FcDe3eQ1lUZ2dvOVpZOXc
 
 Quick Story:
+
 As I came back to Ecuador after 5 years of living in Phoenix Arizona, I got an aparment near the office where I was starting LatinoAmericaMedia.com, that allowed me to walk from home to the office, every morning. On my way there sometime I will see Anibal, who as you can see in the videos, is a double amputee.
 As usual I got intriged about his live, and his story. Turns out we where practically neihbords almos a decade ago. he lived across the street from an old appartment. 
 Now he begs for money on the stop lights to make a living. 
