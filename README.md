@@ -8,7 +8,7 @@ prosthetic leg for low income income in developing countries
 
 
 Video Interview with user that needs it
-[![Interview with user that needs it](https://i.ytimg.com/vi/e3BEWLO6Q98/2.jpg?time=1502308924221)]
+![Interview with user that needs it](https://i.ytimg.com/vi/e3BEWLO6Q98/2.jpg?time=1502308924221)
 
 
 Most files are too big for Github. so you can find them:
