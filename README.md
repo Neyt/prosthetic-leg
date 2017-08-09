@@ -9,6 +9,7 @@ This project looks to create better Prosthetic legs at a fraction of the cost. (
 
 [![Protesis August 2016 click here for vide](https://i.ytimg.com/vi/ycOXtW6hJTM/1.jpg?time=1502308860567)](https://www.youtube.com/watch?v=ycOXtW6hJTM&feature=youtu.be)
 
+[![Protesis August 2016 click here for vide](https://i.ytimg.com/vi/e3BEWLO6Q98/2.jpg?time=1502308924221)](https://youtu.be/e3BEWLO6Q98)
 
 Video Interview with user that needs it
 [![Interview with user that needs it](https://i.ytimg.com/vi/e3BEWLO6Q98/2.jpg?time=1502308924221)]
