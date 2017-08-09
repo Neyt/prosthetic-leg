@@ -1,5 +1,8 @@
 # prosthetic-leg
-prosthetic leg for low income income in developing countries
+prosthetic leg for low income income in developing countries. 
+
+Prosthetic legs are very expensive, between $3000 each,  and $500 in maintenance a year. 
+This project looks to create better Prosthetic legs at a fraction of the cost. ($399).
 
 
 
@@ -8,7 +11,8 @@ prosthetic leg for low income income in developing countries
 
 
 Video Interview with user that needs it
-![Interview with user that needs it](https://i.ytimg.com/vi/e3BEWLO6Q98/2.jpg?time=1502308924221)
+![Interview with user that needs it](https://i.ytimg.com/vi/e3BEWLO6Q98/2.jpg?time=1502308924221)]
+(https://www.youtube.com/edit?o=U&video_id=e3BEWLO6Q98)
 
 
 Most files are too big for Github. so you can find them:
